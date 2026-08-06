@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sohamtayade/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sohamtayade/LeetCode/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sohamtayade/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/sohamtayade/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sohamtayade/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
