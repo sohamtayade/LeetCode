@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sohamtayade/LeetCode/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/sohamtayade/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sohamtayade/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sohamtayade/LeetCode/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sohamtayade/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sohamtayade/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -75,5 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sohamtayade/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
