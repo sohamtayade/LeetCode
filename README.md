@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sohamtayade/LeetCode/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/sohamtayade/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sohamtayade/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sohamtayade/LeetCode/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sohamtayade/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sohamtayade/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -34,18 +36,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sohamtayade/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sohamtayade/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
