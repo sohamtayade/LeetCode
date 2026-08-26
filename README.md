@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sohamtayade/LeetCode/tree/master/0013-roman-to-integer) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sohamtayade/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sohamtayade/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/sohamtayade/LeetCode/tree/master/1872-stone-game-viii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sohamtayade/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
